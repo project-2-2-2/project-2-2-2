@@ -1,9 +1,9 @@
 # Hi 👋, I'm SRIMAN SRINIVASAN
 ##  About Me
 Btech student at IIIT Kurnool, India.
-Iam a competitive programmer 
-I Have built many web apps (Mern stack)
-I worked on Machine learning and Deeplearning projects
+Iam a competitive programmer .
+I Have built many web apps (Mern stack).
+I worked on Machine learning and Deeplearning projects.
 Currently exploring Agentic Ai and Rag
 
 📫 email: [srimanstudyforever@gmail.com](mailto:srimanstudyforever@gmail.com)  
