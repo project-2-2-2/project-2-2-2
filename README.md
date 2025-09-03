@@ -1,4 +1,5 @@
-# Hi 👋, I'm SRIMAN SRINIVASAN 
+# Hi 👋, I'm SRIMAN SRINIVASAN
+##  About Me
 Btech student at IIIT Kurnool, India.
 Iam a competitive programmer 
 I Have built many web apps (Mern stack)
