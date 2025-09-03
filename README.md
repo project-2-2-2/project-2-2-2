@@ -10,7 +10,7 @@ Currently exploring Agentic Ai and Rag
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/sriman-srinivasan-ba14a5313/)](mailto:srimanstudyforever@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:srimanstudyforever@gmail.com) 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sughanvasan14)
  
 # 💻 Tech Stack:
